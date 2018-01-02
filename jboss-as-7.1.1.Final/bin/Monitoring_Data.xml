@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<device>
+    <deviceId>48</deviceId>
+    <identification>54.172.96.183</identification>
+    <deviceTags>
+        <entry>
+            <key>TENENT_ID</key>
+            <value>demoresellerstrp</value>
+        </entry>
+        <entry>
+            <key>INSTANCE_NAME</key>
+            <value>wordapp3vm</value>
+        </entry>
+        <entry>
+            <key>STACK_NAME</key>
+            <value>wordpress1tk</value>
+        </entry>
+    </deviceTags>
+    <services>
+        <name>jc_agent_networkOut</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>249</count>
+            <reportDate>2016-57-31T02.57.24</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_OUT= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>250</count>
+            <reportDate>2016-58-31T02.58.24</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_OUT= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>251</count>
+            <reportDate>2016-59-31T02.59.24</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_OUT= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>252</count>
+            <reportDate>2016-00-31T03.00.25</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_OUT= 0.00B</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_networkIn</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>248</count>
+            <reportDate>2016-57-31T02.57.25</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_IN= 408.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>249</count>
+            <reportDate>2016-58-31T02.58.25</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_IN= 408.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>250</count>
+            <reportDate>2016-59-31T02.59.25</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_IN= 592.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>251</count>
+            <reportDate>2016-00-31T03.00.25</reportDate>
+            <textMessage>NET USAGE OK : NETWORK_IN= 592.00B</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_diskUsage</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>248</count>
+            <reportDate>2016-57-31T02.57.25</reportDate>
+            <textMessage>ROOT_VOLUME OK : ROOT_VOLUME= 24%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>249</count>
+            <reportDate>2016-58-31T02.58.25</reportDate>
+            <textMessage>ROOT_VOLUME OK : ROOT_VOLUME= 24%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>250</count>
+            <reportDate>2016-59-31T02.59.25</reportDate>
+            <textMessage>ROOT_VOLUME OK : ROOT_VOLUME= 24%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>251</count>
+            <reportDate>2016-00-31T03.00.26</reportDate>
+            <textMessage>ROOT_VOLUME OK : ROOT_VOLUME= 24%</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_diskRead</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>251</count>
+            <reportDate>2016-57-31T02.57.24</reportDate>
+            <textMessage>DISK IO OK : DISK_READ= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>252</count>
+            <reportDate>2016-58-31T02.58.24</reportDate>
+            <textMessage>DISK IO OK : DISK_READ= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>253</count>
+            <reportDate>2016-59-31T02.59.24</reportDate>
+            <textMessage>DISK IO OK : DISK_READ= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>254</count>
+            <reportDate>2016-00-31T03.00.25</reportDate>
+            <textMessage>DISK IO OK : DISK_READ= 0.00B</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_diskWrite</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>248</count>
+            <reportDate>2016-57-31T02.57.25</reportDate>
+            <textMessage>DISK IO OK : DISK_WRITE= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>249</count>
+            <reportDate>2016-58-31T02.58.25</reportDate>
+            <textMessage>DISK IO OK : DISK_WRITE= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>250</count>
+            <reportDate>2016-59-31T02.59.25</reportDate>
+            <textMessage>DISK IO OK : DISK_WRITE= 0.00B</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>251</count>
+            <reportDate>2016-00-31T03.00.26</reportDate>
+            <textMessage>DISK IO OK : DISK_WRITE= 0.00B</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_cpu</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>248</count>
+            <reportDate>2016-57-31T02.57.25</reportDate>
+            <textMessage>CPU OK : CPU= 0.00%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>249</count>
+            <reportDate>2016-58-31T02.58.25</reportDate>
+            <textMessage>CPU OK : CPU= 0.00%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>250</count>
+            <reportDate>2016-59-31T02.59.25</reportDate>
+            <textMessage>CPU OK : CPU= 0.00%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>251</count>
+            <reportDate>2016-00-31T03.00.26</reportDate>
+            <textMessage>CPU OK : CPU= 0.00%</textMessage>
+        </status>
+    </services>
+    <services>
+        <name>jc_agent_memory</name>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-57-31T02.57.24</endTime>
+            <count>249</count>
+            <reportDate>2016-57-31T02.57.25</reportDate>
+            <textMessage>MEMORY OK : MEM= 22.80%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-58-31T02.58.24</endTime>
+            <count>250</count>
+            <reportDate>2016-58-31T02.58.25</reportDate>
+            <textMessage>MEMORY OK : MEM= 22.80%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-59-31T02.59.24</endTime>
+            <count>251</count>
+            <reportDate>2016-59-31T02.59.25</reportDate>
+            <textMessage>MEMORY OK : MEM= 22.81%</textMessage>
+        </status>
+        <status>
+            <state>OK</state>
+            <startTime>2016-33-31T10.33.41</startTime>
+            <endTime>2016-00-31T03.00.24</endTime>
+            <count>252</count>
+            <reportDate>2016-00-31T03.00.25</reportDate>
+            <textMessage>MEMORY OK : MEM= 22.86%</textMessage>
+        </status>
+    </services>
+</device>

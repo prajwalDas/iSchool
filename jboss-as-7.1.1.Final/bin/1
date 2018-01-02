@@ -1,0 +1,11 @@
+DATETIME=`date '+%m%d%g-%H%M'`
+
+export DATETIME
+sh ./jboss-cli.sh --connect command=:shutdown
+sleep 13
+rm -rf run.log
+rm -rf /d01/jboss-as-7.1.1.Final/standalone/tmp
+rm -rf /d01/jboss-as-7.1.1.Final/standalone/work
+rm -rf /d01/jboss-as-7.1.1.Final/pp_config/jcehcachedata/*
+pkill -9 java
+ps -ef | grep jboss
